@@ -1,7 +1,8 @@
 #MyProject
 
 ##Introduction
-This paragraph is the introduction
+
+This paragraph is the introduction. Nedd some more content here ...
 
 ##Create the branches
 
